@@ -1,7 +1,7 @@
 server:
   port: 8080
 
-# 교육용 코드
+# 교육용 코드 (변경사항 적용)
 superuser:
   userId: ${_SUPER_UID:admin123}
 ---
